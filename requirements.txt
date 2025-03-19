@@ -1,0 +1,5 @@
+sentence-transformers
+numpy
+watchdog
+pysqlite3
+sqlite-vec
