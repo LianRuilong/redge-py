@@ -1,5 +1,14 @@
 sentence-transformers
 numpy
 watchdog
-pysqlite3
-sqlite-vec
+hnswlib
+ollama
+tqdm
+fastapi
+uvicorn
+pydantic
+requests
+sip
+PyQt6 
+pyqt6-tools
+markdown
